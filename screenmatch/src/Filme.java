@@ -8,7 +8,7 @@ public class Filme {
 
 	void exibeFichatecnica() {
 		System.out.println("Nome do Filme:" + nome);
-		System.out.println("Anoe de Lançamento: " + anoDeLancamento);
+		System.out.println("Ano de Lançamento: " + anoDeLancamento);
 	}
 
 	void avalia(double nota) {
